@@ -1,0 +1,175 @@
+.header{
+    background-color: #287FF0;
+    width: 100%;
+    height: 60px;
+
+}
+.logo{
+    width:30% ;
+    padding-top: none;
+    float: left;
+} 
+.logo-text{
+    color: white;
+    font-style: italic;
+    margin-left: 200px;
+    font-size: 16px;
+   
+    
+}
+.login{
+    width: 20%;
+    float: left;
+
+}
+.login-input{
+    width: 90%;
+    margin-top: 25px;
+    margin-right: 10px;
+}
+.btn{
+    margin-right: 10px;
+    margin-top: 25px;
+    width: 70px;
+    font-family: #287FF0;
+    float: left;
+    
+
+}
+.textfield{
+    width: 30%;
+    float: left;
+
+
+}
+.login-controls{
+    margin-left: 30px;
+}
+.seller{
+    font-size: 20px;
+    margin-top: 20px;
+    color: azure;
+}
+.more{
+    font-size:20px ;
+    margin-top: 20px;
+    color: azure;
+    margin-left: 20px;
+    
+
+}
+.cart{
+    font-size:20px ;
+    margin-top: 20px;
+    color: azure;
+    margin-left: 20px;
+
+}
+.main-body{
+    background: linear-gradient(white,#d3d8e8);
+    width: 100%;
+    height: 1000px;
+    margin-top: auto;
+    padding-block-start: 5px;
+}
+.left-section{
+    background-color: #287FF0;
+    width: 30%;
+    height: 100%;
+    margin-left: 300px;
+    float: left;
+    margin-top: 1px;
+}
+.right-section{
+    background-color: #fff;
+    width: 40%;
+    height: 1000px;
+    float: left;
+}
+.top{
+    height: 30px;
+    width: 100%;
+    background-color: white;
+    padding: none;
+    float: left;
+}
+.t1{
+    font-size: 30px;
+    font-weight: bold;
+    color: #fff;
+    margin-left: 30px;
+}
+.t2{
+    font-size: 17px;
+    margin-top: none;
+    margin-left: 30px;
+    color: #fff;
+}
+.login0{
+    width: 50%;
+    height: 30px;
+   
+}
+.login9{
+    width: 100%;
+    height: 20%;
+}
+.input8{
+    height: 200px;
+    margin-top: 50px;
+   
+}
+.email{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.m2{
+    margin-top: 5px;
+}
+.p1{
+    width: 400px;
+    margin-left: 50px;
+}
+.btn2{
+    width: 400px;
+    margin-left: 50px;
+    height: 40px;
+    background-color: orangered;
+    color: #fff;
+}
+.l2{
+    margin-left: 50px;
+
+}
+.l1{
+    margin-left: 50px;
+}
+.footer{
+    width: 500px;
+    height: 40px;
+    margin-top: 300px;
+}
+.foot{
+    margin-left: 170px;
+    color: #287FF0;
+}
+
+.p0{
+    padding-top: 0px;
+}
+.nav{
+    background-color: white;
+    margin:20PX;
+    padding: auto;
+    border:3px solid white;
+    
+}
+.nav li{
+    display: inline-block;
+    font-size: 20px;
+    padding-left: 29px;
+    font-weight: bold;
+   
+}
+
